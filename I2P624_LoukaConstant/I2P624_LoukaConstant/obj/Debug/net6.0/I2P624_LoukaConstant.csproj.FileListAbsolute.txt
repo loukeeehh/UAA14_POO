@@ -1,0 +1,15 @@
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\bin\Debug\net6.0\I2P624_LoukaConstant.exe
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\bin\Debug\net6.0\I2P624_LoukaConstant.deps.json
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\bin\Debug\net6.0\I2P624_LoukaConstant.runtimeconfig.json
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\bin\Debug\net6.0\I2P624_LoukaConstant.dll
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\bin\Debug\net6.0\I2P624_LoukaConstant.pdb
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.csproj.AssemblyReference.cache
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.GeneratedMSBuildEditorConfig.editorconfig
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.AssemblyInfoInputs.cache
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.AssemblyInfo.cs
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.csproj.CoreCompileInputs.cache
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.dll
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\refint\I2P624_LoukaConstant.dll
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.pdb
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\I2P624_LoukaConstant.genruntimeconfig.cache
+H:\I2P624_LoukaConstant\I2P624_LoukaConstant\obj\Debug\net6.0\ref\I2P624_LoukaConstant.dll
